@@ -103,3 +103,8 @@ Abrir `src/test/java/org/example/RunnerTest.java` y ejecutar con **Run 'RunnerTe
   target/site/serenity/index.html
   ```
 * **Capturas por paso**: se guardan automáticamente en la carpeta `evidencias/`, organizadas por fecha, hora y nombre del escenario.
+
+---
+
+## 👥 Autor
+Luis Gustavo Silva Suárez
